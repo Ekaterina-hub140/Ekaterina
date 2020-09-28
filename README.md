@@ -1,5 +1,5 @@
 # Ekaterina
-Examples of some python code
+
 Hello,
 In this repository you will find:
 2 games  - BlackJack and TicTacToe
