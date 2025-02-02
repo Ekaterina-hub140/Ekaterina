@@ -19,3 +19,5 @@ In this repository you will find:
   Then it extracts a zip file and searches for a phone number in all the files in the extracted folder
   
 For the site sample please, see my other repository (Blog-Django2)
+
+For Tinkoff contest please see the Tinkoff repository (tasks with solutions, January 2025)
