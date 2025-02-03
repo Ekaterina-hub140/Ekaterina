@@ -17,5 +17,9 @@ In this repository you will find:
   
   4)This program writes down a simple file to count the general number of words, count the most common words and how often they are found in the text. 
   Then it extracts a zip file and searches for a phone number in all the files in the extracted folder
+
+  5)web scraping program (books besteller finder) - it lets you choose your favourite books genre, looks for bestselling books in this genre at amazon.com page and gives ou a list of top 10, then suggests sending them to your email.
+
+  6)web scrapign program (again books but from litres this time). Had to use litres as sometimes there are troubles with amazon.com when you try to scrape it from Russia.
   
 For the site sample please, see my other repository (Blog-Django2)
