@@ -5,7 +5,7 @@ In this repository you will find:
 
   2 games - BlackJack game (cards game) and a TicTacToe game
   
-  4 programs:
+  7 programs:
 
   1)Tile calculator - calculates how much tile is needed to cover a certain amount of floor(with an GUI element, 
   the program takes input from a user and can avoid mistakes with wrong input)
