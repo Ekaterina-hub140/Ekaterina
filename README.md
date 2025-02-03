@@ -20,6 +20,8 @@ In this repository you will find:
 
   5)web scraping program (books besteller finder) - it lets you choose your favourite books genre, looks for bestselling books in this genre at amazon.com page and gives ou a list of top 10, then suggests sending them to your email.
 
-  6)web scrapign program (again books but from litres this time). Had to use litres as sometimes there are troubles with amazon.com when you try to scrape it from Russia.
+  6)web scraping program (again books but from litres this time). Had to use litres as sometimes there are troubles with amazon.com when you try to scrape it from Russia.
+
+  7)Bank program. It is a Python program that utilizes the Tkinter library for creating a simple GUI. The program will ask the user whether they would like to take a mortgage or deposit money, allow them to input an amount and select a time period, then calculate and display the applicable interest rate based on the conditions specified by the user (the percent conditions are described in details in the program, start from a given point and change according to users choice).
   
 For the site sample please, see my other repository (Blog-Django2)
