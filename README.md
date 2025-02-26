@@ -7,7 +7,7 @@ In this repository you will find:
 
   Some algorythimic problems from Tinkoff bank (T-bank after rebranding) - the tasks 2025 Jan, 7 tasks with solutions. Got all OK status but again, the tests are only 1 per task, the solution is not 100% guaranteed correct (need at least 50 tests to ensure it works under all conditions) but I did what I could. 
   
-  10 programs:
+  11 programs:
 
   1)Tile calculator - calculates how much tile is needed to cover a certain amount of floor(with an GUI element, 
   the program takes input from a user and can avoid mistakes with wrong input)
@@ -32,6 +32,8 @@ In this repository you will find:
 
  10)Company Manager Program 
 It's a Python program that implements an employee hierarchy using an abstract class and subclasses for different types of employees. The program includes a Company class that allows you to manage employees by hiring, firing, and raising their salaries. Created mostly to show usage of OOP in Python
+
+11)Site Checker -  a Python program that implements a site checker with time scheduling. This program will attempt to connect to a specified website at regular intervals and notify you if the site is down. You can modify the email notification part to suit your needs. 
 
 
 For the site sample please, see my other repository (Blog-Django2)
