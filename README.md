@@ -7,7 +7,7 @@ In this repository you will find:
 
   Some algorythimic problems from Tinkoff bank (T-bank after rebranding) - the tasks 2025 Jan, 7 tasks with solutions. Got all OK status but again, the tests are only 1 per task, the solution is not 100% guaranteed correct (need at least 50 tests to ensure it works under all conditions) but I did what I could. 
   
-  9 programs:
+  10 programs:
 
   1)Tile calculator - calculates how much tile is needed to cover a certain amount of floor(with an GUI element, 
   the program takes input from a user and can avoid mistakes with wrong input)
@@ -29,5 +29,9 @@ In this repository you will find:
  8)Minimum Spanning Tree - algorythmic problem. To solve it you need to Create a program which takes a connected, undirected graph with weights and outputs the minimum spanning tree of the graph i.e., a subgraph that is a tree, contains all the vertices, and the sum of its weights is the least possible.
 
  9)Eulerian Path. One more algorythmic problem, decided to train myself a bit in this field. The task is the following: create a program which will take as an input a graph and output either a Eulerian path or a Eulerian cycle, or state that it is not possible. A Eulerian Path starts at one node and traverses every edge of a graph through every node and finishes at another node. A Eulerian cycle is a eulerian Path that starts and finishes at the same node 
+
+ 10)Company Manager Program 
+It's a Python program that implements an employee hierarchy using an abstract class and subclasses for different types of employees. The program includes a Company class that allows you to manage employees by hiring, firing, and raising their salaries. Created mostly to show usage of OOP in Python
+
 
 For the site sample please, see my other repository (Blog-Django2)
