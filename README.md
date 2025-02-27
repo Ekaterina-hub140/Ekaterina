@@ -5,7 +5,7 @@ In this repository you will find:
 
   2 games - BlackJack game (cards game) and a TicTacToe game
 
-  Some algorythimic problems from Tinkoff bank (T-bank after rebranding) - the tasks 2025 Jan, 7 tasks with solutions. Got all OK status but again, the tests are only 1 per task, the solution is not 100% guaranteed correct (need at least 50 tests to ensure it works under all conditions) but I did what I could. 
+  Some algorythmic problems from Tinkoff bank (T-bank after rebranding) - the tasks 2025 Jan, 7 tasks with solutions. Got all OK status but again, the tests are only 1 per task, the solution is not 100% guaranteed correct (need at least 50 tests to ensure it works under all conditions) but I did what I could. 
   
   13 programs:
 
