@@ -7,7 +7,7 @@ In this repository you will find:
 
   Some algorythimic problems from Tinkoff bank (T-bank after rebranding) - the tasks 2025 Jan, 7 tasks with solutions. Got all OK status but again, the tests are only 1 per task, the solution is not 100% guaranteed correct (need at least 50 tests to ensure it works under all conditions) but I did what I could. 
   
-  12 programs:
+  13 programs:
 
   1)Tile calculator - calculates how much tile is needed to cover a certain amount of floor(with an GUI element, 
   the program takes input from a user and can avoid mistakes with wrong input)
@@ -36,5 +36,7 @@ It's a Python program that implements an employee hierarchy using an abstract cl
 11)Site Checker -  a Python program that implements a site checker with time scheduling. This program will attempt to connect to a specified website at regular intervals and notify you if the site is down. You can modify the email notification part to suit your needs. 
 
 12)Inverted Index - it searches text files (docx and txt) for what the user needs to find in the text (case sensitive) An Inverted Index is a data structure used to create full text search. Given a set of text files, the program creates an inverted index. It has a simple user interface to do a search using that inverted index which returns a list of files that contain the query term / terms. 
+
+13)Hotel booking -  simulates a hotel booking system for "The Best Inn". The program allows clients to book rooms, displays messages for available dates, and allows administrators to view all bookings. The bookings are saved to a directory created as a docx file with all the cofirmation dicx files stored in the same directory. The program suggest free dates if there are none for the selected period. There is a client\admin option with a password (WeHaveTheBestHotel). The admin can see all bookings made. 
 
 For the site sample please, see my other repository (Blog-Django2)
