@@ -68,9 +68,8 @@ Web Scrapers: Includes fallback logic for regional restrictions.
 
 Django Projects: See separate repositories (Django 2.0 Blog, Django 4.2 Blog).
 
-📜 License
-MIT License. See LICENSE for details.
 
-Developed by [Your Name]
-LinkedIn
-Portfolio
+Developed by Ekaterina Tyukavkina
+LinkedIn  https://www.linkedin.com/in/ekaterina-tyukavkina-28b0861b9/
+
+
